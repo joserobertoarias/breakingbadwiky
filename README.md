@@ -14,4 +14,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Preview
 
-![ScreenShot](https://github.com/joserobertoarias/breakingbadwiky/tree/main/src/assets/Screenshot_58.jpg)
+![ScreenShot](https://github.com/joserobertoarias/breakingbadwiky/blob/d71f7d3275ce61298fdab4de20b3d61184053153/src/assets/Screenshot_58.jpg)
